@@ -1,0 +1,20 @@
+
+.under60in {
+  background-color: pink;
+}
+
+.over60in {
+  background-color: yellow;
+}
+
+.allRides {
+  display: none;
+}
+
+.under60inHeader {
+  display: none;
+}
+
+.over60inHeader {
+  display: none;
+}
